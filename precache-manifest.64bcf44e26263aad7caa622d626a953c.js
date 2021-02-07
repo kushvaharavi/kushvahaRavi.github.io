@@ -361,7 +361,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ed3c02b43a5f2dfbd3a948f3e57364ed",
-    "url": "/static/media/tasin.ed3c02b4.png"
+    "url": "/static/media/ravi.ed3c02b4.png"
   },
   {
     "revision": "8b5073977fea60efe3b7eacb610e2b49",
