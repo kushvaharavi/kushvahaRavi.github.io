@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0351602c50e8455995f726298ab0c71d",
+    "revision": "112b9f981bb8d001b8c9377654ec874e",
     "url": "/index.html"
   },
   {
-    "revision": "dd1edbe4a5a7d88203e4",
+    "revision": "e3c9a72075a7644ea41e",
     "url": "/static/css/main.0be01edc.chunk.css"
   },
   {
-    "revision": "25fcf5b739117c62b343",
-    "url": "/static/js/2.cb8131cc.chunk.js"
+    "revision": "ca5f34e8b1e2e8f6f7ac",
+    "url": "/static/js/2.2a967c8e.chunk.js"
   },
   {
     "revision": "eaaf63558baae456918a991a401208d7",
-    "url": "/static/js/2.cb8131cc.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.2a967c8e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd1edbe4a5a7d88203e4",
-    "url": "/static/js/main.9dfc7a39.chunk.js"
+    "revision": "e3c9a72075a7644ea41e",
+    "url": "/static/js/main.7383a851.chunk.js"
   },
   {
     "revision": "1a5a446601c7c1351afb",
@@ -60,60 +60,64 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/address_image.3b021f8f.svg"
   },
   {
-    "revision": "49e0ee73ad51ac8da19f33c3d5c71fc2",
-    "url": "/static/media/android-icon-144x144.49e0ee73.png"
+    "revision": "b8c6c13a311cb8d2c53805203b0b5352",
+    "url": "/static/media/android-icon-144x144.b8c6c13a.png"
   },
   {
-    "revision": "8fb6c26d3152020956b7b85edd388b81",
-    "url": "/static/media/android-icon-192x192.8fb6c26d.png"
+    "revision": "7a48c804a3258fb91edc81478edafe28",
+    "url": "/static/media/android-icon-192x192.7a48c804.png"
   },
   {
-    "revision": "b85a9e570e36cea6a13155c43343d080",
-    "url": "/static/media/android-icon-96x96.b85a9e57.png"
+    "revision": "36b9f77d71a045fce6e0155e4abaa8e3",
+    "url": "/static/media/android-icon-72x72.36b9f77d.png"
+  },
+  {
+    "revision": "ead4277e01b23a68266b36ab23f61903",
+    "url": "/static/media/android-icon-96x96.ead4277e.png"
   },
   {
     "revision": "e5c4ba08c1a82ef1dc0c72885b61ca05",
     "url": "/static/media/android.e5c4ba08.svg"
   },
   {
-    "revision": "6c8410d0dc11fec239040695be13315d",
-    "url": "/static/media/animated_ashutosh.6c8410d0.png"
-  },
-  {
     "revision": "a633be2faf9b129259563d65d0aa1333",
     "url": "/static/media/animated_logo.a633be2f.svg"
   },
   {
-    "revision": "516e5f02e09118172bd87fc4a9421f53",
-    "url": "/static/media/apple-icon-114x114.516e5f02.png"
+    "revision": "0e49806d53882bd4e86b75c8384ba353",
+    "url": "/static/media/apple-icon-114x114.0e49806d.png"
   },
   {
-    "revision": "c8ee763b0158d3d0edd48f915451627d",
-    "url": "/static/media/apple-icon-120x120.c8ee763b.png"
+    "revision": "13c6e52ff24f12f27cadb917ddf9833b",
+    "url": "/static/media/apple-icon-120x120.13c6e52f.png"
   },
   {
-    "revision": "49e0ee73ad51ac8da19f33c3d5c71fc2",
-    "url": "/static/media/apple-icon-144x144.49e0ee73.png"
+    "revision": "b8c6c13a311cb8d2c53805203b0b5352",
+    "url": "/static/media/apple-icon-144x144.b8c6c13a.png"
   },
   {
-    "revision": "240a3f5c3ef6b3bcd3fdb5657d5b9e34",
-    "url": "/static/media/apple-icon-152x152.240a3f5c.png"
+    "revision": "c3413a6bccaa80af073b663fef9337c7",
+    "url": "/static/media/apple-icon-152x152.c3413a6b.png"
   },
   {
-    "revision": "537f3c9241e642152bf3991d943065be",
-    "url": "/static/media/apple-icon-180x180.537f3c92.png"
+    "revision": "275172f1fa62e251493b150c862687eb",
+    "url": "/static/media/apple-icon-180x180.275172f1.png"
   },
   {
-    "revision": "29bfad611896e135ec14edc575ea9db0",
-    "url": "/static/media/apple-icon-76x76.29bfad61.png"
+    "revision": "36b9f77d71a045fce6e0155e4abaa8e3",
+    "url": "/static/media/apple-icon-72x72.36b9f77d.png"
   },
   {
-    "revision": "68e6e95dd09c30f53cdb6836af333330",
-    "url": "/static/media/apple-icon-precomposed.68e6e95d.png"
+    "revision": "87c44878189cf40879937b45048a45f6",
+    "url": "/static/media/apple-icon-76x76.87c44878.png"
   },
   {
-    "revision": "68e6e95dd09c30f53cdb6836af333330",
-    "url": "/static/media/apple-icon.68e6e95d.png"
+    "revision": "357f58f01daeb131d831da6767a4c9b1",
+    "url": "/static/media/apple-icon-precomposed.357f58f0.png"
+  },
+  {
+    "revision": "357f58f01daeb131d831da6767a4c9b1",
+    "url": "/static/media/apple-icon.357f58f0.png"
   },
   {
     "revision": "a69e1b3418b00f8188170b69a69a148b",
@@ -126,6 +130,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b6b12c7d07e0569e771c8aedf81a7767",
     "url": "/static/media/blogs_image.b6b12c7d.svg"
+  },
+  {
+    "revision": "653d077300a12f09a69caeea7a8947f8",
+    "url": "/static/media/browserconfig.653d0773.xml"
   },
   {
     "revision": "dfcb7a585547c0b125d208b980d6f57f",
@@ -228,12 +236,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.8e4a6dcc.eot"
   },
   {
-    "revision": "b85a9e570e36cea6a13155c43343d080",
-    "url": "/static/media/favicon-96x96.b85a9e57.png"
+    "revision": "ead4277e01b23a68266b36ab23f61903",
+    "url": "/static/media/favicon-96x96.ead4277e.png"
   },
   {
-    "revision": "a27467df5d535fee029a704916ad57f4",
-    "url": "/static/media/favicon.a27467df.ico"
+    "revision": "db74c0b788867fa35297623b4627ced3",
+    "url": "/static/media/favicon.db74c0b7.ico"
   },
   {
     "revision": "2a24a8543299da438f46039d07384efa",
@@ -300,16 +308,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/moon.dc75df84.svg"
   },
   {
-    "revision": "49e0ee73ad51ac8da19f33c3d5c71fc2",
-    "url": "/static/media/ms-icon-144x144.49e0ee73.png"
+    "revision": "b8c6c13a311cb8d2c53805203b0b5352",
+    "url": "/static/media/ms-icon-144x144.b8c6c13a.png"
   },
   {
-    "revision": "3fce30fff225db8d6a8a1247830d387f",
-    "url": "/static/media/ms-icon-150x150.3fce30ff.png"
+    "revision": "d7c3bbf1d27b91bcf0feebeb4694d49d",
+    "url": "/static/media/ms-icon-150x150.d7c3bbf1.png"
   },
   {
-    "revision": "6512b54b0ff4753ff98ce77b914dcd4e",
-    "url": "/static/media/ms-icon-310x310.6512b54b.png"
+    "revision": "fafc8154a17222de57966dfd5bfcd391",
+    "url": "/static/media/ms-icon-310x310.fafc8154.png"
+  },
+  {
+    "revision": "efc518c733e0d422b7a16b96d5e03582",
+    "url": "/static/media/ms-icon-70x70.efc518c7.png"
   },
   {
     "revision": "db6c1c0dddd4c868e00a3cffa1078e49",
@@ -336,8 +348,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwa.bd5f4148.png"
   },
   {
-    "revision": "098c432094f7d5f2c1538347c1925a41",
-    "url": "/static/media/ravi.098c4320.jpg"
+    "revision": "a8d34233eceb97d58e2cdcf3712e5c12",
+    "url": "/static/media/ravi.a8d34233.png"
+  },
+  {
+    "revision": "72560089c8c8255796bd0da1ad5f8d7a",
+    "url": "/static/media/rgpv.72560089.png"
   },
   {
     "revision": "3440939881da8339d1597e8d77cdf850",
@@ -361,7 +377,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ed3c02b43a5f2dfbd3a948f3e57364ed",
-    "url": "/static/media/ravi.ed3c02b4.png"
+    "url": "/static/media/tasin.ed3c02b4.png"
   },
   {
     "revision": "8b5073977fea60efe3b7eacb610e2b49",
